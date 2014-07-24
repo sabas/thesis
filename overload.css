@@ -1,0 +1,24 @@
+.part_introduction__classicthesis_{margin-top:100px !important;}
+.part_introduction__classicthesis__label{display:none;}
+.chapter{
+text-transform:uppercase;
+font-size: large;
+}
+h1.part {text-transform:uppercase; color:#A31336;}
+h2.section {text-transform:uppercase;}
+h3.subsection {font-style:italic;
+font-weight: normal !important;
+font-size: medium !important;}
+span.flex_url{color:#A31336; font-weight:bolder;} /*convertire in a*/
+div.wrap {border:0 !important;}
+div.float {border:0 !important; width:70%; margin-left:auto;margin-right:auto;}
+div.float-figure div.plain_layout{text-align:center; margin-left:auto;margin-right:auto;}
+div.float-caption {border:0 !important;}
+div.float-caption div.plain_layout{text-align:center;}
+pre{font-family:monospace; text-align:left;}
+h1.chapter_{text-transform:uppercase;border-bottom:1px solid black; font-size: large !important;}
+div.tochead.part{font-weight:bold; text-transform:uppercase;border-bottom:1px solid black; font-size: large !important;}
+
+.tocarrow{font-size:x-small; text-decoration:initial;}
+
+span.flex_ct___spaced_all_caps{font-size:xx-large !important; color:#A31336;}

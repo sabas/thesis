@@ -1429,7 +1429,7 @@ Per le opere che vogliono essere messe nel pubblico dominio dall’autore stesso
 IODL 1.0/2.0
 ------------
 
-![image](img/iodl.png)
+![image](img/iodl.jpg)
 
 Il centro di formazione per l’ammodernamento della PA, Formez, ha prodotto una licenza specifica per le Pubbliche Amministrazioni italiane denominata Italian Open Data License che è al momento la più usata dagli enti italiani. Esistono due versioni: la 1.0[^150], pubblicata il 17 Aprile 2011, e la 2.0[^151], pubblicata l’8 Marzo 2012.
 
@@ -1772,15 +1772,10 @@ Fino all’introduzione nella versione internazionale delle Creative Commons del
 
 [^143]: <http://governancexborders.com/2011/09/16/cc-global-summit-2011-the-end-of-the-porting-experiment/>
 
-[^144]: Con l’introduzione nella legislazione europea della protezione sui database si è deciso di includere, nelle versioni ported delle nazioni europee delle licenze, i database nella definizione di opera con le condizioni
-
+[^144]: Con l’introduzione nella legislazione europea della protezione sui database si è deciso di includere, nelle [versioni ported delle nazioni europee delle licenze](http://wiki.creativecommons.org/images/f/f6/V3_Database_Rights.pdf), i database nella definizione di opera con le condizioni
     -   che venga incluso solo nelle localizzazioni dei paesi in cui esiste la protezione dei database;
-
     -   che definisca i limiti territoriali in cui questi diritti vengono applicati;
-
     -   che non venga applicato ad oggetti non protetti da copyright (fatti, idee, informazioni, eccetera)
-
-    [http://wiki.creativecommons.org/images/f/f6/V3\_Database\_Rights.pdf ](http://wiki.creativecommons.org/images/f/f6/V3_Database_Rights.pdf )
 
 [^145]: <http://www.technollama.co.uk/cc-4-0-an-end-to-porting-creative-commons-licenses>
 
